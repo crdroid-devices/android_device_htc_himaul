@@ -1,9 +1,7 @@
 [
   {
-    "remote": "CyanogenMod",
     "repository": "android_device_htc_hima-common",
-    "target_path": "device/htc/hima-common",
-    "revision": "cm-12.1"
+    "target_path": "device/htc/hima-common"
   },
   {
     "remote": "CyanogenMod",
