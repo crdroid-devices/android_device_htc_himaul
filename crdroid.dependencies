@@ -19,12 +19,6 @@
   },
   {
     "remote": "CyanogenMod",
-    "repository": "android_external_mm-dash",
-    "target_path": "external/mm-dash",
-    "revision": "cm-13.0"
-  },
-  {
-    "remote": "CyanogenMod",
     "repository": "android_hardware_qcom_fm",
     "target_path": "hardware/qcom/fm",
     "revision": "cm-13.0"
