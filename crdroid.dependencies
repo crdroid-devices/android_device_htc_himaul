@@ -18,24 +18,6 @@
     "revision": "cm-13.0"
   },
   {
-    "remote": "CyanogenMod",
-    "repository": "android_hardware_qcom_fm",
-    "target_path": "hardware/qcom/fm",
-    "revision": "cm-13.0"
-  },
-  {
-    "remote": "CyanogenMod",
-    "repository": "android_external_stlport",
-    "target_path": "external/stlport",
-    "revision": "cm-13.0"
-  },
-  {
-    "remote": "CyanogenMod",
-    "repository": "android_external_sony_boringssl-compat",
-    "target_path": "external/sony/boringssl-compat",
-    "revision": "cm-13.0"
-  },
-  {
     "remote": "tm",
     "repository": "proprietary_vendor_htc",
     "target_path": "vendor/htc",
